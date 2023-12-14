@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/fabrice-kurmann/"
     - label: "Email"
-      icon: "fa-envelope"
+      icon: "fa-solid fa-envelope"
       url: "mailto:fabrice.kurmann@gmail.com"
 
 footer:
