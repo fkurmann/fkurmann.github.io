@@ -67,9 +67,9 @@ author:
       url: "https://github.com/fkurmann"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/fabrice-kurmann"
+      url: "https://www.linkedin.com/in/fabrice-kurmann/"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa-envelope"
       url: "mailto:fabrice.kurmann@gmail.com"
 
 footer:
