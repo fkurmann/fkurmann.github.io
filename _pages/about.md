@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is Fabrice Kurmann and I am currently an undergraduate at the University of California, Santa Cruz, majoring in Computer Science and Bioinformatics. My main interests lie in applications of machine learning, deep learning, modeling, and simulation applied to biological areas including genomics, medicine, and tissue engineering. Some notable academic and research projects are on display in the corresponding sections. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm currently applying to multiple graduate programs with the goal of pursuing a Ph.D. at the apex of CS and Biology. I'll know a lot more about where I may end up pursuing my graduate degree by April, 2024.
+
+Besides my academic interests, I am also an avid triathlete, cook, baker, pianist, and petrolhead. I've linked a few of my projects relating to these hobbies here just for fun.
