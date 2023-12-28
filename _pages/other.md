@@ -1,5 +1,5 @@
 ---
-permalink: /Other/
+permalink: /other/
 title: "Other"
 ---
 
