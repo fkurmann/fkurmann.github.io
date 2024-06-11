@@ -8,5 +8,5 @@ tags:
   - Academic
 ---
 
-My senior thesis, a comprehensive report on my research project completed as a member of the LINQS Lab in collaboration with the Barbara Block Lab at Stanford, Hopkins Marine Station. The project is [linked here](https://github.com/fkurmann/CSE115a-TrainingControlCenter).
+My senior thesis, a comprehensive report on my research project completed as a member of the LINQS Lab in collaboration with the Barbara Block Lab at Stanford, Hopkins Marine Station. The report is [linked here](https://github.com/fkurmann/fkurmann.github.io/blob/master/assets/documents/Shark_Identification_Senior_Thesis.pdf).
 

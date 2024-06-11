@@ -8,5 +8,5 @@ I'm currently working on a research project focusing on AI based shark identific
 ### Timeline:
 - December 2023: Begin of resarch collaboration.
 
-- June 2023: Completion of my senior thesis. [Link](https://github.com/fkurmann/CSE115a-TrainingControlCenter) to the associated post.
+- June 2023: Completion of my senior thesis. [Link](https://github.com/fkurmann/fkurmann.github.io/blob/master/assets/documents/Shark_Identification_Senior_Thesis.pdf) to the associated post.
 
