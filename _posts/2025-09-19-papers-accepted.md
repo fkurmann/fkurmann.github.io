@@ -1,5 +1,5 @@
 ---
-title: "Shark Identification Senior Thesis"
+title: "2 Papers Accepted for Fall 2025 Venues"
 date: 2025-09-19T00:00:00-00:00
 categories:
   - blog
