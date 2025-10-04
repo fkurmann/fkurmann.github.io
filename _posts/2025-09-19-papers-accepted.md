@@ -8,7 +8,7 @@ tags:
   - Academic
 ---
 
-This past summer, I've worked on two publucations, both of which have been accepted to workshops to take place in October. 
+This past summer, I've worked on two publications, both of which have been accepted to workshops to take place in October. 
  - Optimizing Vision Transformers for White Shark Re-Identification at BayLearn 2025
  - Building a Flexible Framework for Automated White Shark Re-Identification at Computer Vision for Ecology at ICCV 2025
 
