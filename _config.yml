@@ -56,8 +56,8 @@ plugins:
 
 author:
   name   : "Fabrice Kurmann"
-  avatar : "/assets/images/Small Profile.png"
-  bio    : "Computer science and bioinformatics student at UC Santa Cruz."
+  avatar : "/assets/images/small_profile.png"
+  bio    : "Computer science graduate student at UC Santa Cruz."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
