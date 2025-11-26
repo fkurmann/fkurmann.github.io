@@ -59,9 +59,6 @@ author:
   avatar : "/assets/images/small_profile.png"
   bio    : "Computer science graduate student at UC Santa Cruz."
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://fkurmann.github.io"
     - label: "Resume"
       icon: "fas fa-fw fa-link"
       url: "https://drive.google.com/file/d/1xAp1rhYdg7RKsgW7TSmi3bfqs1SJRZVQ/view?usp=sharing"
