@@ -1,6 +1,6 @@
 ---
-permalink: /cv/
-title: "CV"
+permalink: /resume/
+title: "Resume"
 ---
 
-Linked are my most recent [Resume](https://docs.google.com/document/d/1TPKyBaVsqR0FXzA-z2YBp1lZqxrXeoj-hbLE6lpYGZE/edit?usp=sharing) and [CV](https://docs.google.com/document/d/1MilzmgDF_R_iP02FFZqq9J83WgZgV1YnXaXxH48XSs8/edit?usp=sharing).
+Linked is my most recent [Resume](https://drive.google.com/file/d/1OAp1rrgPm18YT2Z5FTjof9qyufWU3-g8/view?usp=sharing).
