@@ -3,4 +3,4 @@ permalink: /resume/
 title: "Resume"
 ---
 
-Linked is my most recent [resume](https://drive.google.com/file/d/1OAp1rrgPm18YT2Z5FTjof9qyufWU3-g8/view?usp=sharing).
+Linked is my most recent [resume](https://drive.google.com/file/d/1xAp1rhYdg7RKsgW7TSmi3bfqs1SJRZVQ/view?usp=sharing).
