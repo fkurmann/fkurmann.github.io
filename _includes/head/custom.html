@@ -1,0 +1,13 @@
+<!-- Open every link on the site in a new tab. -->
+<base target="_blank">
+<script>
+  // Keep in-page anchors (skip-to-content, table of contents) in the current tab.
+  document.addEventListener('click', function (event) {
+    var target = event.target;
+    if (!target || !target.closest) { return; }
+    var link = target.closest('a[href]');
+    if (link && !link.target && link.getAttribute('href').charAt(0) === '#') {
+      link.target = '_self';
+    }
+  }, true);
+</script>
