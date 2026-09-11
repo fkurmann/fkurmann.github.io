@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Fabrice Kurmann"
   avatar : "/assets/images/small_profile.png"
-  bio    : "Computer science graduate student at UC Santa Cruz."
+  bio    : "AL/ML Engineer at IBM, UC Santa Cruz Computer Science Graduate."
   links:
     - label: "Resume"
       icon: "fas fa-fw fa-link"
